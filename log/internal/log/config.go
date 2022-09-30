@@ -1,4 +1,4 @@
-package log 
+package log
 
 type Config struct {
 	Segment struct {
